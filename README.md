@@ -25,7 +25,9 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />]
 
 <br />
-<br />
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rebeccamanzi/)]([[https://www.linkedin.com/in/steniowagner/](https://www.linkedin.com/in/vini-si12363/)])
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:viniciuspv.si@gmail.com)](mailto:viniciuspv.si@gmail.com)
 
 [![Vinicius Vieira's GitHub stats](https://github-readme-stats.vercel.app/api?username=vinisi12363)](https://github.com/vinisi12363/github-readme-stats)
 ---
