@@ -1,12 +1,27 @@
-# Estudante de desenvolvimento web full-stack 
+  ## Estudante de Engenharia de Software na <a href="https://www.driven.com.br/">Driven</a>
 
 
 - Olá mundo!  Meu nome é Marcos Vinícius Pedreira Vieira, mas pode me chamar simplesmente de Vini.
-- Estudei sistemas de informação na UESB e atualmente, estou estudando desenvolvimento de software na <a href="https://www.driven.com.br/">driven</a>
+- Estudei sistemas de informação na UESB e atualmente, estou estudando desenvolvimento de software na 
 - Estou estudando algumas linguagens: HTML, CSS, Javascript, React e C++;
-- 
 
-<!---
-vinisi12363/vinisi12363 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<br />
+
+### Languagens e Ferramentas:
+
+[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />]
+[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />]
+[<img align="left" alt="C" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" />]
+[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />]
+[<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />]
+[<img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />]
+[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />]
+[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />]
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />]
+
+<br />
+<br />
+
+
+[![Vinicius Vieira's GitHub stats](https://github-readme-stats.vercel.app/api?username=vinisi12363)](https://github.com/vinisi12363/github-readme-stats)
+---
