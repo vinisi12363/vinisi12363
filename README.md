@@ -1,9 +1,10 @@
-- 👋 Hi, I’m @vinisi12363 
-- i'm 28 years old.
-- 👀 I’m interested in learn new progaming languages, and new opportunities for teamwork in a company.
-- 🌱 I’m currently learning HTML 5 and CSS on Driven bootcamp.
-- 💞️ I’m looking to collaborate on new projects idea and teamwork and comunicate.
-- 📫 How to reach me: www.linkedin.com/in/vini-si12363 or viniciuspv.si@gmail.com
+# Estudante de desenvolvimento web full-stack 
+
+
+- Olá mundo!  Meu nome é Marcos Vinícius Pedreira Vieira, mas pode me chamar simplesmente de Vini.
+- Estudei sistemas de informação na UESB e atualmente, estou estudando desenvolvimento de software na <a href="https://www.driven.com.br/">driven</a>
+- Estou estudando algumas linguagens: HTML, CSS, Javascript, React e C++;
+- 
 
 <!---
 vinisi12363/vinisi12363 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
