@@ -31,7 +31,8 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 
 [![Vinicius Vieira's GitHub stats](https://github-readme-stats.vercel.app/api?username=vinisi12363)](https://github.com/vinisi12363/github-readme-stats)
 ---
-
+<br/>
+![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif)
 
 
 
