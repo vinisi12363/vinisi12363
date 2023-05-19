@@ -11,7 +11,7 @@
 
 - Atualmente estou estudando engenharia de software na Driven Education.
  
-- Estou estudando algumas linguagens e bibliotecas, como: HTML, CSS, Javascript, React e SQL;
+- Estou estudando algumas linguagens e bibliotecas, como: HTML, CSS, Javascript, ReactJS , Mongodb e PostgresSQL;
 
 <br />
 
