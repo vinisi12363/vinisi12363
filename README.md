@@ -37,11 +37,12 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" 
 
 <br />
 <br />
+[![Vinicius Vieira's GitHub stats](https://github-readme-stats.vercel.app/api?username=vinisi12363)](https://github.com/vinisi12363/github-readme-stats)
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rebeccamanzi/)]([[https://www.linkedin.com/in/steniowagner/](https://www.linkedin.com/in/vini-si12363/)])
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:viniciuspv.si@gmail.com)](mailto:viniciuspv.si@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-green.svg?style=flat-square&logo=whatsapp)](https://api.whatsapp.com/send?phone=5573988251737)
-[![Vinicius Vieira's GitHub stats](https://github-readme-stats.vercel.app/api?username=vinisi12363)](https://github.com/vinisi12363/github-readme-stats)
+
 ---
 <br/>
 
