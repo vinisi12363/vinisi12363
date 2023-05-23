@@ -40,7 +40,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" 
 <div style="display: inline_block" align="center" gap="15px">
     <img width="500rem" src="https://github-readme-stats.vercel.app/api?username=vinisi12363&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
     <br/>
-    <img width="500rem" src="https://github-readme-streak-stats.herokuapp.com/?user=vinisi12363&layout=compact&langs_count=7&theme=github_dark" />
+   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=vinisi12363&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
     <br/>
     <img width="500rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinisi12363&layout=compact&langs_count=7&theme=github_dark&include_all_commits=true&count_private=true"/>
     <br/>
