@@ -27,18 +27,18 @@
 <img  align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 <img  align="center" alt="Mongodb" height="30" width="40" src="https://w7.pngwing.com/pngs/429/921/png-transparent-mongodb-plain-wordmark-logo-icon.png"/>
 <img  align="center" alt="Postgres" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg"/>
-<img align="center" alt="Matt-Rodrigues-Figma" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" />
-<img align="center" alt="Matt-Rodrigues-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img align="center" alt="Figma" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" />
+<img align="center" alt="Github" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 </div>
 
 <br />
 <br />
 <div style="display: inline_block" align="center" gap="15px">
-    <img width="500rem" src="https://github-readme-stats.vercel.app/api?username=vinisi12363&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+    <img width="500rem" src="https://github-readme-stats.vercel.app/api?username=vinisi12363&show_icons=true&theme=dark"/>
     <br/>
-    <img width="500rem" src="https://github-readme-streak-stats.herokuapp.com/?user=vinisi12363&layout=compact&langs_count=7&theme=midnight-purple" />
+    <img width="500rem" src="https://github-readme-streak-stats.herokuapp.com/?user=vinisi12363&layout=compact&langs_count=7&theme=dark" />
     <br/>
-    <img width="500rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinisi12363&layout=compact&langs_count=7&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+    <img width="500rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinisi12363&layout=compact&langs_count=8&theme=dark"/>
     <br/>
 </div>
 
