@@ -1,3 +1,9 @@
+  <style>
+    .transparent-bg {
+        background-color: transparent;
+    }
+</style>  
+  
   ![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Vinícius%20&fontAlignY=40&color=gradient)
   
   ## Estudante de Engenharia de Software na <a href="https://www.driven.com.br/">Driven Education</a>
@@ -17,32 +23,28 @@
 
 ### Linguagens e Ferramentas:
 
-<div width= "100%" justify-content="space-between">
+<div style="display: inline_block" align="center" gap="10px"><br>
 
-<img align="left" alt="HTML5" height="30" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" height="30" width="40"
-src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="JavaScript" height="30" width="40"
-src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="center" alt="REACT" height="30" width="40" 
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
-<img align="left" alt="C" height="30" width="40"
-src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" />
-<img align="left" alt="SQL" height="30" width="40"
-src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="center" alt="Java" height="30" width="40" 
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-
+<img  align="center" alt="HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
+<img  align="center" alt="CSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>
+<img  align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>
+<img  align="center" alt="ReactJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"/>
+<img  align="center" alt="C" height="30" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"/>
+<img  align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+<img  align="center" alt="Mongodb" height="30" width="40" src="https://w7.pngwing.com/pngs/429/921/png-transparent-mongodb-plain-wordmark-logo-icon.png"/>
+<img  align="center" alt="Postgres" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg"/>
+<img align="center" alt="Matt-Rodrigues-Figma" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" />
+<img align="center" alt="Matt-Rodrigues-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 </div>
 
 <br />
 <br />
 <div style="display: inline_block" align="center" gap="15px">
-    <img width="500rem" src="https://github-readme-stats.vercel.app/api?username=vinisi12363&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+    <img width="500rem" src="https://github-readme-stats.vercel.app/api?username=vinisi12363&show_icons=true&theme=dark"/>
     <br/>
-   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=vinisi12363&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+    <img width="500rem" src="https://github-readme-streak-stats.herokuapp.com/?user=vinisi12363&layout=compact&langs_count=7&theme=dark" />
     <br/>
-    <img width="500rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinisi12363&layout=compact&langs_count=7&theme=github_dark&include_all_commits=true&count_private=true"/>
+    <img width="500rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinisi12363&layout=compact&langs_count=7&theme=dark&include_all_commits=true&count_private=true"/>
     <br/>
 </div>
 
