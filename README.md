@@ -38,15 +38,13 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" 
 <br />
 <br />
 <div style="display: inline_block" align="center" gap="15px">
-    <img width="500rem" src="https://github-readme-stats.vercel.app/api?username=vinisi12363&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+    <img width="500rem" src="https://github-readme-stats.vercel.app/api?username=vinisi12363&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
     <br/>
-    <img width="500rem" src="https://github-readme-streak-stats.herokuapp.com/?user=vinisi12363&layout=compact&langs_count=7&theme=midnight-purple" />
+    <img width="500rem" src="https://github-readme-streak-stats.herokuapp.com/?user=vinisi12363&layout=compact&langs_count=7&theme=github_dark" />
     <br/>
-    <img width="500rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinisi12363&layout=compact&langs_count=7&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+    <img width="500rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinisi12363&layout=compact&langs_count=7&theme=github_dark&include_all_commits=true&count_private=true"/>
     <br/>
 </div>
-
-[![Vinicius Vieira's GitHub stats](https://github-readme-stats.vercel.app/api?username=vinisi12363)](https://github.com/vinisi12363/github-readme-stats)
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rebeccamanzi/)]([[https://www.linkedin.com/in/steniowagner/](https://www.linkedin.com/in/vini-si12363/)])
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:viniciuspv.si@gmail.com)](mailto:viniciuspv.si@gmail.com)
