@@ -5,8 +5,6 @@
 
 - Olá mundo! Meu nome é Marcos Vinícius Pedreira Vieira, mas pode me chamar simplesmente de Vinícius.
 
-- Sou casado, pai, também sou um apaixonado por programação e por tocar guitarra.
-
 - Cursei sistemas de informação na UESB (Universidade Estadual do Sudoeste da Bahia). 
 
 - Atualmente, estou estudando engenharia de software na Driven Education.
