@@ -7,9 +7,11 @@
 
 - Cursei sistemas de informação na UESB (Universidade Estadual do Sudoeste da Bahia). 
 
-- Atualmente, estou estudando engenharia de software na Driven Education.
+- Tenho experiência com:  ReactJS, NodeJs, PostgreSQL, Typescript e Javascript.
+  
+- Trabalho com os frameworks e templates: Vite, NestJS, Adonis Js.
  
-- Estou estudando algumas linguagens como: HTML, CSS, Javascript, ReactJS , Mongodb e PostgresSQL;
+- Possuo interesse em estudar: React-Native, Java, .NET .
 
 <br />
 
@@ -29,6 +31,8 @@
 <img align="center" alt="Figma" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" />
 <img align="center" alt="Jest" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" />
 <img align="center" alt="Github" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img align="center" alt="Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
+
 </div>
 
 <br />
@@ -50,7 +54,7 @@
 <br/>
 
 ----
-![snake gif](https://github.com/vinisi12363/vinisi12363/blob/output/github-contribution-grid-snake.gif)
+<!-- ![snake gif](https://github.com/vinisi12363/vinisi12363/blob/output/github-contribution-grid-snake.gif)  -->
 
 
 
