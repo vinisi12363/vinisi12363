@@ -1,11 +1,11 @@
   ![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Vinícius%20&fontAlignY=40&color=gradient)
   
-  ## Estudante de Engenharia de Software na <a href="https://www.driven.com.br/">Driven Education</a>
+  ## Analista de Sistemas e Estudante de Engenharia de Software na <a href="https://www.driven.com.br/">Driven Education</a>
 
 
 - Olá mundo! Meu nome é Marcos Vinícius Pedreira Vieira, mas pode me chamar simplesmente de Vinícius.
 
-- Cursei sistemas de informação na UESB (Universidade Estadual do Sudoeste da Bahia). 
+- Cursei Sistemas de Informação pela UESB (Universidade Estadual do Sudoeste da Bahia). 
 
 - Tenho experiência com:  ReactJS, NodeJs, PostgreSQL, Typescript e Javascript.
   
