@@ -15,6 +15,18 @@
 
 <br />
 
+### Quer saber um pouco mais ? Fale comigo aqui:
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rebeccamanzi/)]([[https://www.linkedin.com/in/steniowagner/](https://www.linkedin.com/in/vini-si12363/)])
+</br>
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:viniciuspv.si@gmail.com)](mailto:viniciuspv.si@gmail.com)
+</br>
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-green.svg?style=flat-square&logo=whatsapp)](https://api.whatsapp.com/send?phone=5573988251737)
+
+
+
+<br />
+
 ### Linguagens e Ferramentas:
 
 <div style="display: inline_block" align="center" gap="10px"><br>
@@ -39,17 +51,12 @@
 <br />
 <div style="display: inline_block" align="center" gap="15px">
     <img width="500rem" src="https://github-readme-stats.vercel.app/api?username=vinisi12363&show_icons=true&theme=github_dark"/>
-    <br/>
+    <br />
     <img width="500rem" src="https://github-readme-streak-stats.herokuapp.com/?user=vinisi12363&layout=compact&langs_count=7&theme=github_dark" />
-    <br/>
+    <br />
     <img width="500rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinisi12363&layout=compact&langs_count=8&theme=github_dark"/>
-    <br/>
+    <br />
 </div>
-
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rebeccamanzi/)]([[https://www.linkedin.com/in/steniowagner/](https://www.linkedin.com/in/vini-si12363/)])
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:viniciuspv.si@gmail.com)](mailto:viniciuspv.si@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-green.svg?style=flat-square&logo=whatsapp)](https://api.whatsapp.com/send?phone=5573988251737)
-
 ---
 <br/>
 
