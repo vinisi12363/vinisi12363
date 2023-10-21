@@ -1,6 +1,6 @@
   ![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=vinicius_vieira%20&fontAlignY=40&color=gradient)
   
-  ## Analista de Sistemas e Estudante de Engenharia de Software na <a href="https://www.driven.com.br/">Driven Education</a>
+  ## Information Systems student and full-stack web developer. 
 
 
 - Hello World!
