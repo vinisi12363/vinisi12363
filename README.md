@@ -13,7 +13,7 @@
 
 <br />
 
-### Entre em contato:
+### Talk to me:
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rebeccamanzi/)]([[https://www.linkedin.com/in/steniowagner/](https://www.linkedin.com/in/vini-si12363/)])
 </br>
