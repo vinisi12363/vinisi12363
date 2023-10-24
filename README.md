@@ -25,7 +25,7 @@
 
 <br />
 
-### Habilidades:
+### Skills:
 
 <div style="display: inline_block" align="center" gap="10px"><br>
   
@@ -36,7 +36,7 @@
 
 </br>
 
-### Ferramentas: 
+### Tools: 
 
 <div style="display: inline_block" align="center" gap="10px"><br>
 
