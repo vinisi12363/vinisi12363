@@ -9,7 +9,7 @@
 
 - i'm graduanting on Information Systems at UESB - Universidade Estadual do Estado da Bahia. 
  
-- Currently I'm interessted in learn about:  Java.
+- Currently I'm interessted in learn about:  C# and PHP.
 
 <br />
 
