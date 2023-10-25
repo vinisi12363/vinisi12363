@@ -1,6 +1,6 @@
   ![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=vinicius_vieira%20&fontAlignY=40&color=gradient)
   
-  ## Information Systems student and full-stack web developer. 
+  ## Information Systems student and fullstack web developer. 
 
 
 - Hello World!
