@@ -15,7 +15,7 @@
 
 ### Talk to me:
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rebeccamanzi/)]([[https://www.linkedin.com/in/steniowagner/](https://www.linkedin.com/in/vini-si12363/)])
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vini-si12363/)]([[https://www.linkedin.com/in/steniowagner/](https://www.linkedin.com/in/vini-si12363/)])
 </br>
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:viniciuspv.si@gmail.com)](mailto:viniciuspv.si@gmail.com)
 </br>
