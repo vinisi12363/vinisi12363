@@ -97,6 +97,11 @@ A possibilidade de poder criar algo que ajude as pessoas a atender suas necessid
   <summary>:zap: Most Used Languages</summary>
   <img height="172em" alt="Vini's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinisi12363&layout=compact&langs_count=10&theme=dark&bg_color"/>
 </details>
+
+<details>
+  <summary>:zap: Github Streak Stats</summary>
+  <img height="172em" alt="Vini's GitHub Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=vinisi12363&theme=rose_pine&bg_color"/>
+</details>
 <br/>
 
 
