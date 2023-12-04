@@ -86,14 +86,7 @@ A possibilidade de poder criar algo que ajude as pessoas a atender suas necessid
 
 
 <br />
-<br />
-<div style="display: inline_block" align="center" gap="15px">
-  
-   [![My rank](https://github-readme-stats.vercel.app/api?username=vinisi12363&show_icons=true&theme=dark)](https://www.linkedin.com/in/vini-si12363/)
 
-   
-  
-</div>
 
 <details>
   <summary>:zap: GitHub Stats</summary>
