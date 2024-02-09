@@ -40,9 +40,9 @@ A possibilidade de poder criar algo que ajude as pessoas a atender suas necessid
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-green.svg?style=flat-square&logo=whatsapp)](https://api.whatsapp.com/send?phone=5573988251737)
 
 
-### Acesse meu postifólio: 
+### Acesse meu portfolio: 
 
-[Click me](https://myportfolio-sable-eight.vercel.app/)
+[Click me](https://vinidevweb.vercel.app/)
 
 
 <br />
