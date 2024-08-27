@@ -5,10 +5,10 @@
 
 <div style="display: inline_block" width="200px" align="start" gap="15px">
   
-Sou desenvolvedor  web e mobile full-stack , finalizando o bacharelado em Sistemas de informação pela <a href="http://www.uesb.br/">UESB</a>,
-sou competitivo e amante de novos desafios na programação.
+Sou Desenvolvedor,  estou finalizando o bacharelado em Sistemas de informação pela <a href="http://www.uesb.br/">UESB</a>,
+sou competitivo e amo conhecer novas lingaugens de programação.
 
-A possibilidade de poder criar algo que ajude as pessoas a atender suas necessidades me encanta na programação! Isso é uma das minhas maiores motivações.
+A possibilidade de poder criar algo que ajude as pessoas a atender as suas necessidades me encanta na programação! Isso é uma das minhas maiores motivações.
   
 </div>
 
@@ -18,11 +18,11 @@ A possibilidade de poder criar algo que ajude as pessoas a atender suas necessid
 ### Formação: 
 - Bacharelado em Sistemas de Informação (em andamento).
 
-- Desenvolvimento Web Full Stack e Engenharia de Software pela <a href="https://www.driven.com.br/"> Driven Education </a> com 1500 horas de duração.
+- Desenvolvimento Web Fullstack e Engenharia de Software pela <a href="https://www.driven.com.br/"> Driven Education </a> com 1500 horas de duração.
 
 ### Oque eu ando fazendo ? 
 
-- No momento estou atuando como desenvolvedor fullstack, prestando serviço para a Grupo sideral e outras empresas.
+- No momento estou atuando como desenvolvedor fullstack, prestando serviço para a Grupo Sideral e outras empresas.
 
 - Estou focando em aprender PHP com Laravel no momento. 🔥
 
