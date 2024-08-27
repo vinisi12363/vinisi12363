@@ -64,7 +64,6 @@ A possibilidade de poder criar algo que ajude as pessoas a atender as suas neces
   ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
   ![Npm](https://img.shields.io/badge/Npm-000?style=for-the-badge&logo=npm&logoColor=white)&nbsp;
   ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
-  [![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?&style=for-the-badge&logo=firebase)](https://firebase.google.com/)
   [![React Native](https://img.shields.io/badge/React_Native-%2302569B.svg?&style=for-the-badge&logo=react&logoColor=white)](https://reactnative.dev/)
 
 
