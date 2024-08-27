@@ -22,9 +22,9 @@ A possibilidade de poder criar algo que ajude as pessoas a atender suas necessid
 
 ### Oque eu ando fazendo ? 
 
-- No momento estou atuando como desenvolvedor Freelancer, tanto na área Web quanto Mobile.
+- No momento estou atuando como desenvolvedor fullstack, prestando serviço para a Grupo sideral e outras empresas.
 
-- Estou focando em aprender React-Native e Firebase no momento. 🔥
+- Estou focando em aprender PHP com Laravel no momento. 🔥
 
 - Fun Fact : sou curioso, competitivo, não desisto nunca e amo suco de limão 🍋 
 
