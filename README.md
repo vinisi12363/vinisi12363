@@ -15,13 +15,13 @@ A possibilidade de poder criar algo que ajude as pessoas a atender as suas neces
 
 
 ### Formação: 
-- Bacharelado em Sistemas de Informação (em andamento).
+- Bacharelado em Sistemas de Informação - Universidade Estadual do Sudoeste da Bahia.
 
 - Desenvolvimento Web Fullstack e Engenharia de Software pela <a href="https://www.driven.com.br/"> Driven Education </a> com 1500 horas de duração.
 
 ### Oque eu ando fazendo ? 
 
-- No momento estou atuando como desenvolvedor fullstack, prestando serviço para a Grupo Sideral e outras empresas.
+- No momento estou atuando como desenvolvedor Fullstack, prestando serviço para o Grupo Sideral.
 
 - Estou focando em aprender PHP com Laravel no momento. 🔥
 
@@ -96,10 +96,6 @@ A possibilidade de poder criar algo que ajude as pessoas a atender as suas neces
   <img height="172em" alt="Vini's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinisi12363&layout=compact&langs_count=10&theme=dark&bg_color"/>
 </details>
 
-<details>
-  <summary>:zap: Github Streak Stats</summary>
-  <img height="172em" alt="Vini's GitHub Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=vinisi12363&theme=rose_pine&bg_color"/>
-</details>
 <br/>
 
 
