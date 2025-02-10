@@ -1,5 +1,4 @@
-  ![waving](https://capsule-render.vercel.app/api?type=waving&width=600&height=200&text=vinicius_vieira%20&fontAlignY=40&color=gradient)
-  
+![waving](https://capsule-render.vercel.app/api?type=waving&width=600&height=200&text=vin%C3%ADcius_vieira%20&fontAlignY=40&color=gradient)
 
 #  Hello World! Meu nome é Marcos Vinícius Pedreira Vieira
 
