@@ -21,9 +21,9 @@ A possibilidade de poder criar algo que ajude as pessoas a atender as suas neces
 
 ### Oque eu ando fazendo ? 
 
-- No momento estou atuando como desenvolvedor Fullstack, prestando serviço para o Grupo Sideral.
+- No momento estou atuando como liderança de projeto e Desenvolvedor Fullstack, prestando serviço para o Grupo Sideral.
 
-- Estou focando em aprender PHP com Laravel no momento. 🔥
+- Estou focado em Evoluir cada vez mais a minha visão do Macro não somente construção de código. 🔥
 
 - Fun Fact : sou curioso, competitivo, não desisto nunca e amo suco de limão 🍋 
 
