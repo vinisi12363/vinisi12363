@@ -17,15 +17,15 @@ A possibilidade de poder criar algo que ajude as pessoas a atender as suas neces
 ### Formação: 
 - Bacharelado em Sistemas de Informação - Universidade Estadual do Sudoeste da Bahia.
 
-- Desenvolvimento Web Fullstack e Engenharia de Software pela <a href="https://www.driven.com.br/"> Driven Education </a> com 1500 horas de duração.
+- Desenvolvimento Web Fullstack e Engenharia de Software pela <a href="https://www.driven.com.br/" target="_blank"> Driven Education </a> com 1500 horas de duração.
 
 ### Oque eu ando fazendo ? 
 
-- No momento estou atuando como liderança de projeto e Desenvolvedor Fullstack, prestando serviço para o Grupo Sideral.
+- No momento estou atuando como liderança de projeto e Desenvolvedor Fullstack, prestando serviço para o Grupo Sideral desenvolvendo soluções para o <a href="https://www.driven.com.br/" target="_blank"> Modo Caverna </a>
 
 - Estou focado em Evoluir cada vez mais a minha visão do Macro não somente construção de código. 🔥
 
-- Fun Fact : sou curioso, competitivo, não desisto nunca e amo suco de limão 🍋 
+- Fun Fact : sou curioso, bom ouvinte (e falante), não desisto nunca e amo suco de limão 🍋 
 
   
 <br />
