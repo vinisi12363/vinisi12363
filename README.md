@@ -4,10 +4,7 @@
 
 <div style="display: inline_block" width="200px" align="start" gap="15px">
   
-Sou Desenvolvedor,  estou finalizando o bacharelado em Sistemas de informação pela <a href="http://www.uesb.br/">UESB</a>,
-sou competitivo e amo conhecer novas lingaugens de programação.
-
-A possibilidade de poder criar algo que ajude as pessoas a atender as suas necessidades me encanta na programação! Isso é uma das minhas maiores motivações.
+Sou Desenvolvedor com 5 anos de experiência na área de tecnologia. Iniciei na área através do curso de Sistemas de Informação pela UESB e, desde então, atuei em diversos projetos, tanto em equipe quanto de forma independente. Tenho experiência com desenvolvimento completo de sistemas, do planejamento das regras de negócio e análise de requisitos até o deploy, mantendo o foco em soluções escaláveis e eficientes para o cliente. Me destaco pela boa comunicação, proatividade e capacidade de liderança.
   
 </div>
 
@@ -21,7 +18,7 @@ A possibilidade de poder criar algo que ajude as pessoas a atender as suas neces
 
 ### Oque eu ando fazendo ? 
 
-- No momento estou atuando como liderança de projeto e Desenvolvedor Fullstack, prestando serviço para o Grupo Sideral desenvolvendo soluções para o <a href="https://www.driven.com.br/" target="_blank"> Modo Caverna </a>
+- No momento estou atuando como líder de projeto e Desenvolvedor Fullstack, prestando serviço para o Grupo Sideral desenvolvendo soluções para o <a href="app.modocaverna.com" target="_blank"> Modo Caverna </a>
 
 - Estou focado em Evoluir cada vez mais a minha visão do Macro não somente construção de código. 🔥
 
