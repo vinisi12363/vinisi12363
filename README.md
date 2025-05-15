@@ -18,7 +18,7 @@ Sou Desenvolvedor com 5 anos de experiência na área de tecnologia. Iniciei na 
 
 ### Oque eu ando fazendo ? 
 
-- No momento estou atuando como líder de projeto e Desenvolvedor Fullstack, prestando serviço para o Grupo Sideral desenvolvendo soluções para o <a href="app.modocaverna.com" target="_blank"> Modo Caverna </a>
+- No momento estou atuando como líder de projeto e Desenvolvedor Fullstack, prestando serviço para o Grupo Sideral desenvolvendo soluções para o <a href="https://app.modocaverna.com" target="_blank"> Modo Caverna </a>
 
 - Estou focado em Evoluir cada vez mais a minha visão do Macro não somente construção de código. 🔥
 
