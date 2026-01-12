@@ -77,12 +77,6 @@ Sou Desenvolvedor com 5 anos de experiência na área de tecnologia. Iniciei na 
 ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux&logoColor=white)
 
-#### Profile Visitors
-
-<p align="center"> 
-  <img src="https://profile-counter.glitch.me/vinisi12363/count.svg" />
-</p>
----
 
 <details>
   <summary>:zap: GitHub Stats</summary>
