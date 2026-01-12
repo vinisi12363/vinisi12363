@@ -4,7 +4,7 @@
 
 <div style="display: inline_block" width="200px" align="start" gap="15px">
   
-Sou Desenvolvedor com 5 anos de experiência na área de tecnologia. Iniciei na área através do curso de Sistemas de Informação pela UESB e, desde então, atuei em diversos projetos, tanto em equipe quanto de forma independente. Tenho experiência com desenvolvimento completo de sistemas, do planejamento das regras de negócio e análise de requisitos até o deploy, mantendo o foco em soluções escaláveis e eficientes para o cliente. Me destaco pela boa comunicação, proatividade e capacidade de liderança.
+Sou Desenvolvedor com 5 anos de experiência na área de tecnologia. Iniciei na área através do curso de Sistemas de Informação pela UESB e, desde então, atuei em diversos projetos, nacionais e internacionais. Tenho experiência com desenvolvimento end-to-end, provisionamento de serviços em nuvem e arquitetura de serviços.
   
 </div>
 
@@ -17,10 +17,9 @@ Sou Desenvolvedor com 5 anos de experiência na área de tecnologia. Iniciei na 
 ---
 
 ### O que eu ando fazendo?
-
-- Atualmente atuo como líder de projeto e Desenvolvedor Fullstack, prestando serviço para o Grupo Sideral desenvolvendo soluções para o [Modo Caverna](https://app.modocaverna.com)
-- Estou focado em evoluir cada vez mais minha visão do macro — não apenas na construção de código. 🔥
-- **Fun Fact**: sou curioso, bom ouvinte (e falante), não desisto nunca e amo suco de limão 🍋
+- Atualmente Desenvolvo sistemas web em React Node  e Typescript  para a  [Grow & Scale](https://www.growscale.com.br/) e para mim mesmo
+- Atuei como Desenvolvedor Líder, prestando serviço para o Grupo Sideral desenvolvendo soluções para o [Modo Caverna](https://app.modocaverna.com) 
+- **Fun Fact**: sou curioso, bom ouvinte (e falante), especialista em resolver problemas e amo suco de limão 🍋
 
 ---
 
@@ -37,6 +36,7 @@ Sou Desenvolvedor com 5 anos de experiência na área de tecnologia. Iniciei na 
 ### Acesse meu portfólio:
 
 [Click me](https://vinidevweb.vercel.app/)
+
 
 ---
 
