@@ -16,7 +16,7 @@ Sou Desenvolvedor com 5 anos de experiência na área de tecnologia. Iniciei na 
 
 ---
 
-### O que eu ando fazendo?
+### Empresas e projetos recentes?
 - Atualmente Desenvolvo sistemas web end-to-end em React/Next  Node/Nest/Laravel e Typescript  para a  [Grow & Scale](https://www.growscale.com.br/)
 - Possuo uma empresa de  desenvolvimento, em que atuo como Desenvolvedor fullstack.
 - Atuei como Desenvolvedor Líder, prestando serviço para o Grupo Sideral desenvolvendo soluções para o [Modo Caverna](https://app.modocaverna.com) 
